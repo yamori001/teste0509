@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Página com Barra de Navegação e Campos de Login</title>
     <style>
         /* Estilo para os links de navegação */
         td.nav-links a {
