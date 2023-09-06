@@ -1,5 +1,18 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Página com Barra de Navegação e Campos de Login</title>
+    <style>
+        /* Estilo para os links de navegação */
+        td.nav-links a {
+            margin-right: 5cm; /* Define a margem de 5 centímetros à direita dos links */
+        }
+        /* Estilo para os botões de login e signup */
+        td.nav-links button {
+            margin-left: 10px; /* Define a margem de 10 pixels à esquerda dos botões */
+        }
+    </style>
+</head>
 <body>
     <table width="100%" cellspacing="0">
         <tr>
